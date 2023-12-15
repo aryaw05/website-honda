@@ -1,0 +1,60 @@
+[
+     {
+      "id": 1,
+      "namaBarang": "Genio",
+      "deskripsi": "Mesin dari motor ini memiliki tipe 4-langkah dengan sistem SOHC dan eSP. Sistem suplai bahan bakarnya menggunakan PGM-FI (Programmed Fuel Injection), dengan diameter x langkah sebesar 47,0 x 63,1 mm. Transmisinya adalah tipe automatic V-Matic, dengan rasio kompresi sebesar 10,0:1. Daya maksimum yang dihasilkan adalah 6,6 kW (9,0 PS) pada 7.500 rpm, sedangkan torsi maksimum mencapai 9,3 Nm (0,95 kgf.m) pada 5.500 rpm. Mesin ini dilengkapi dengan tipe starter elektrik dan kick starter, serta tipe kopling automatic centrifugal clutch dry type.",
+      "harga": "19,730,000",
+      "gambar": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/uploads\/product\/feature\/image-feature-2-25072023-084931.png",
+      "variantMerah": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/uploads\/product-draft\/colors\/cbs-radiant-red-black-515x504-tr-3-25072023-093604.png",
+      "variantBiru": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/uploads\/product-draft\/colors\/abs-fabulous-blue-515x504-tr-5-25072023-093533.png"
+     },
+     {
+      "id": 2,
+      "namaBarang": "Scoopy",
+      "deskripsi": "Mesin dari motor ini adalah tipe 4-langkah dengan konfigurasi SOHC dan menggunakan pendingin udara, serta dilengkapi teknologi eSP. Sistem suplai bahan bakarnya mengandalkan PGM-FI (Programmed Fuel Injection). Dengan diameter x langkah sebesar 47 x 63,1 mm, mesin ini memiliki transmisi otomatis tipe V-Matic, rasio kompresi 10:1, daya maksimum 6,6 kW (9 PS) pada 7.500 rpm, dan torsi maksimum 9,3 Nm (0,95 kgf.m) pada 5.500 rpm. Starter dapat dilakukan baik dengan elektrik & kick starter maupun hanya menggunakan elektrik (Tipe Smart Key). Koplingnya menggunakan sistem otomatis, sentrifugal, dengan tipe kering.",
+      "harga": "22,780,000",
+      "gambar": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/uploads\/product-draft\/colors\/prestige-black-515x504px-25102023-055339.png"
+     },
+     {
+      "id": 3,
+      "namaBarang": "PCX 160",
+      "deskripsi": "Mesin dari motor ini adalah tipe 4-langkah dengan 4 katup dan dilengkapi teknologi eSP+. Sistem pendinginnya menggunakan pendingin cairan, sedangkan suplai bahan bakarnya mengandalkan PGM-FI (Programmed Fuel Injection). Dengan volume langkah sebesar 156,9 cc dan diameter x langkah sebesar 60 x 55,5 mm, mesin ini memiliki perbandingan kompresi sebesar 12:1. Daya maksimum yang dihasilkan mencapai 11,8 kW (16 PS) pada 8.500 rpm, sedangkan torsi maksimumnya adalah 14,7 Nm (1,5 kgf.m) pada 6.500 rpm. Transmisinya otomatis dengan tipe V-Matic, dan dilengkapi dengan starter elektrik. Koplingnya menggunakan sistem otomatis, sentrifugal, dengan tipe kering. Kapasitas minyak pelumasnya adalah 0,8 liter untuk penggantian periodik.",
+      "harga": "36,085,000",
+      "gambar": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/uploads\/product-draft\/colors\/varian-warna-pcx160-matte-silver-515x504-tr-1-21112023-055239.png"
+     },
+     {
+      "id": 4,
+      "namaBarang": "ADV 160",
+      "deskripsi": "Mesin dari motor ini adalah tipe 4-langkah dengan konfigurasi 4 katup dan dilengkapi teknologi eSP+. Sistem pendinginannya menggunakan pendingin cairan. Suplai bahan bakarnya menggunakan PGM-FI (Programmed Fuel Injection) dengan volume langkah sebesar 156,9 cc, serta diameter x langkah sebesar 60 x 55,5 mm. Perbandingan kompresinya adalah 12:1. Mesin ini mampu menghasilkan daya maksimum sebesar 11,8 kW (16 PS) pada 8.500 rpm, dengan torsi maksimum mencapai 14,7 Nm (1,5 kgf.m) pada 6.500 rpm. Transmisinya otomatis dengan tipe V-Matic, dilengkapi starter elektrik, dan menggunakan kopling otomatis, sentrifugal, tipe kering. Minyak pelumas yang digunakan adalah tipe basah, dengan kapasitas 0,75 liter untuk penggantian periodik.",
+      "harga": "39,400,000",
+      "gambar": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/uploads\/product-draft\/colors\/matebrown-515x504pxl-new-adv160-new-03112023-075503.png"
+     },
+     {
+      "id": 5,
+      "namaBarang": "Beat",
+      "deskripsi": "Mesin dari motor ini merupakan tipe 4-langkah dengan sistem SOHC dan eSP, memiliki volume langkah sebesar 109.5cc. Suplai bahan bakarnya menggunakan sistem injeksi PGM-FI, dengan diameter x langkah sebesar 47.0 x 63.1 mm. Transmisinya otomatis dengan tipe V-Matic, dan memiliki rasio kompresi sebesar 10.0:1. Daya maksimum yang dihasilkan mencapai 6.6 kW (9.0 PS) pada 7.500 rpm, sementara torsi maksimumnya adalah 9.3 N.m (0.95 kgf.m) pada 5.500 rpm. Mesin ini dilengkapi dengan tipe starter elektrik dan kick starter, serta tipe kopling otomatis, sentrifugal, dengan tipe kering.",
+      "harga": "18,900,000",
+      "gambar": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/uploads\/product-draft\/colors\/deluxe-black-1-3-01022023-085835.jpg"
+     },
+     {
+      "id": 6,
+      "namaBarang": "Vario",
+      "deskripsi": "Mesin dari motor ini merupakan tipe 4-langkah dengan konfigurasi SOHC, dilengkapi teknologi eSP, dan menggunakan sistem pendinginan cairan. Sistem suplai bahan bakarnya mengandalkan PGM-FI (Programmed Fuel Injection). Dengan volume langkah sebesar 124,8 cc dan diameter x langkah sebesar 52,4 x 57,9 mm, mesin ini memiliki perbandingan kompresi sebesar 11,0:1. Transmisinya otomatis dengan tipe V-Matic, menghasilkan daya maksimum sebesar 8,2 kW (11,1 PS) pada 8.500 rpm, dan torsi maksimum sebesar 10,8 Nm (1,1 kgf.m) pada 5.000 rpm. Starter mesin menggunakan sistem elektrik, sementara koplingnya menggunakan sistem otomatis sentrifugal dengan tipe kering. Kapasitas minyak pelumasnya adalah 0,8 liter untuk penggantian periodik.",
+      "harga": "24,450,000",
+      "gambar": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/uploads\/product-draft\/colors\/fa-variant-sporty-advance-matte-blue-515x504pxl-ys-1-1-26092022-061518.png"
+     },
+     {
+      "id": 7,
+      "namaBarang": "BeAT Street",
+      "deskripsi": "Motor ini mengusung mesin 4-langkah dengan konfigurasi SOHC dan fitur eSP, yang memberikan efisiensi yang lebih baik dalam penggunaan energi. Dengan volume langkah sebesar 109.5cc, motor ini menghadirkan performa yang cocok untuk kebutuhan sehari-hari. Sistem suplai bahan bakarnya menggunakan Injeksi (PGM-FI), memastikan dosis bahan bakar yang optimal. Dengan diameter x langkah sebesar 47 x 63,1 mm, mesin ini memiliki rasio kompresi sebesar 10.0:1, yang berkontribusi pada efisiensi pembakaran. Transmisi otomatis V-Matic membuat pengalaman berkendara menjadi lebih nyaman, dengan kemampuan untuk beralih antar kecepatan secara otomatis. Mesin mampu menghasilkan daya maksimum sebesar 6,6 kW (9.0 PS) pada 7.500 rpm, sementara torsi maksimumnya mencapai 9,3 Nm (0,95 kgf.m) pada 5.500 rpm. Starter elektrik dan kick starter memberikan fleksibilitas dalam memulai motor. Kopling otomatis sentrifugal tipe kering membuat penggunaan kopling menjadi lebih mudah, memberikan kenyamanan ekstra kepada pengendara. Dengan kombinasi fitur-fitur ini, motor ini menawarkan keseimbangan antara efisiensi, kinerja, dan kemudahan pengendalian.",
+      "harga": "18,700,000",
+      "gambar": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/tr:w-550,f-auto\/uploads\/product\/thumbnail\/93e47a5a-2a5c-446f-9d78-299b084e1392-02022023-034049.png"
+     },
+     {
+      "id": 8,
+      "namaBarang": "Forza",
+      "deskripsi": "Motor ini dibekali dengan mesin eSP+ yang memiliki 4 katup dan konfigurasi 4-langkah SOHC, memberikan kombinasi efisiensi dan kinerja yang tangguh. Dengan volume langkah sebesar 249 cc, motor ini menghadirkan tenaga yang cukup untuk mengatasi berbagai kondisi perjalanan. Sistem suplai bahan bakarnya menggunakan Fuel Injection (PGM-FI), memastikan dosis bahan bakar yang optimal untuk efisiensi dan respons yang baik. Dengan diameter x langkah sebesar 67 x 70,7 mm, mesin ini memiliki rasio kompresi sebesar 10,2:1, yang mendukung efisiensi pembakaran. Transmisi otomatis membuat pengalaman berkendara lebih mudah dan nyaman. Motor mampu menghasilkan daya maksimum sebesar 17 kW pada 7.750 rpm dan torsi maksimum sebesar 24 Nm pada 6.250 rpm, memberikan performa yang solid untuk kebutuhan sehari-hari. Starter elektrik mempermudah proses start, sementara kopling otomatis tipe Automatic Centrifugal Clutch Dry Type membuat penggunaan kopling menjadi lebih praktis dan mudah. Sistem pendinginan mesin menggunakan pendinginan cairan, menjaga suhu operasional mesin agar tetap optimal. Dengan kombinasi fitur-fitur canggih ini, motor ini menawarkan performa handal, efisiensi bahan bakar, dan kemudahan pengendalian untuk pengalaman berkendara yang memuaskan.",
+      "harga": "90,330,000",
+      "gambar": "https:\/\/ik.imagekit.io\/zlt25mb52fx\/ahmcdn\/tr:w-550,f-auto\/uploads\/product\/thumbnail\/forza-400x300-22062023-110136-23062023-090027.png"
+     }
+    ]

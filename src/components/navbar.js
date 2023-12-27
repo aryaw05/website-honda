@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+// import { Link } from "react-scroll  ";
 
 function Navbar() {
   return (
@@ -33,42 +34,27 @@ function Navbar() {
                   style={{ background: "white" }}
                 >
                   <li className="nav-item menu-item" id="menu-btn1">
-                    <Link
-                      className="nav-link menu-link"
-                      to="/"
-                    >
+                    <Link className="nav-link menu-link" to={"/corporate"}>
                       <span className="menu-link-txt">CORPORATE</span>
                     </Link>
                   </li>
                   <li className="nav-item menu-item" id="menu-btn2">
-                    <Link
-                      className="nav-link menu-link"
-                      to={"/product"}
-                    >
+                    <Link className="nav-link menu-link" to={"/product"}>
                       <span className="menu-link-txt">PRODUCTS</span>
                     </Link>
                   </li>
                   <li className="nav-item menu-item" id="menu-btn6">
-                    <Link
-                      className="nav-link menu-link"
-                      to={"/dealer"}
-                    >
+                    {/* <Link className="nav-link menu-link" to={"#nav-section"}>
                       <span className="menu-link-txt">DEALERS</span>
-                    </Link>
+                    </Link> */}
                   </li>
                   <li className="nav-item menu-item" id="menu-btn4">
-                    <Link
-                      className="nav-link menu-link"
-                      to={"/services"}
-                    >
+                    <Link className="nav-link menu-link" to={"/services"}>
                       <span className="menu-link-txt">SERVICES</span>
                     </Link>
                   </li>
                   <li className="nav-item menu-item" id="menu-btn5">
-                    <Link
-                      className="nav-link menu-link"
-                      to="#partsAndAccessories"
-                    >
+                    <Link className="nav-link menu-link" to={"/sparepart"}>
                       <span className="menu-link-txt">PARTS</span>
                     </Link>
                   </li>
@@ -77,14 +63,14 @@ function Navbar() {
                       <span className="menu-link-txt">RACING</span>
                     </Link>
                   </li>
-                  <li
+                  {/* <li
                     className="nav-item menu-item menu-films-block"
                     id="menu-btn3"
                   >
                     <Link className="nav-link menu-link" to="/yamaha-films/">
                       <span className="menu-link-txt">FILMS</span>
                     </Link>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>

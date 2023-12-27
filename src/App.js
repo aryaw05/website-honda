@@ -6,6 +6,8 @@ import Home from "./pages/home";
 import DetailPage from "./pages/detail";
 import Footer from "./components/footer";
 import Dealer from "./pages/dealer";
+import Sparepart from "./pages/spareparts";
+import Corporate from "./pages/corporate";
 function App() {
   return (
     <div>
@@ -19,17 +21,9 @@ function App() {
         <Route path="/product" element={<Product />} />
         <Route path="/detail" element={<DetailPage />} />
         <Route path="/dealer" element={<Dealer />} />
+        <Route path="/sparepart" element={<Sparepart />} />
+        <Route path="/corporate" element={<Corporate />} />
       </Routes>
-
-      {/* <Carousel />
-      <NavSection />
-      <div>
-        <div className="container-fluid row p-5">
-          {Data.Sport.map((e) => (
-            <Card src={e.gambar} title={e.namaBarang} desc={e.harga} />
-          ))}
-        </div>
-      </div> */}
 
       <Footer />
     </div>

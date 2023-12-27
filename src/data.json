@@ -87,77 +87,110 @@
       "namaBarang": "CBR150R",
       "deskripsi": "Mesin ini adalah tipe 4-Langkah DOHC dengan kapasitas 149,16 cc. Penggunaan bahan bakar diatur melalui PGM-FI (Programmed Fuel Injection), dan ukuran diameter x langkahnya adalah 57,3 x 57,8 mm. Dalam hal transmisi, mesin ini dilengkapi dengan manual 6 kecepatan, rasio kompresi sebesar 11,3:1, serta mampu menghasilkan daya maksimum sebesar 12,6 kW (17,1 PS) pada 9.000 rpm. Torsi maksimum yang dapat dicapai mencapai 14,4 Nm (1,47 kgf.m) pada 7.000 rpm. Starter mesin menggunakan sistem elektrik, sementara koplingnya menggunakan tipe wet. Sistem pendingin mesin dilengkapi dengan liquid cooled dan auto fan untuk menjaga suhu mesin. Pola perpindahan gigi pada mesin ini adalah 1-N-2-3-4-5-6.",
       "harga": "42,110,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-50845-24112022-071000.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-50845-24112022-071000.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/head-banner-cbr150-1366x573-03102023-021109-25102023-075650.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/carousel-cbr150-1920x800-03102023-021141.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/lifestyle-2-17-24112022-071854.jpg"
     },
     {
       "id": 2,
       "namaBarang": "CBR250RR",
       "deskripsi": "Mesin ini memiliki tipe 4-Stroke, 8-Valve, Parallel Twin Cylinder, dengan kapasitas mesin sebesar 249,7 cc. Suplai bahan bakar diatur oleh PGM-FI, dan dimensi diameter x langkahnya adalah 62,0 x 41,4 mm. Transmisinya menggunakan manual dengan 6 kecepatan, dan memiliki rasio kompresi 11,5:1 (STD), 12,5:1 (SP | SPQS). Daya maksimum yang dihasilkan mencapai 28,5 kW (38,7 PS) pada 12.500 rpm (STD) dan 31 kW (42 PS) pada 13.000 rpm (SP | SP QS), sementara torsi maksimumnya adalah 23,3 Nm (2,4kgf.m) pada 11.000 rpm (STD) dan 25 Nm (2,5 kgf.m) pada 11.000 rpm (SP | SP QS). Starter mesin menggunakan sistem elektrik, dan koplingnya adalah multiple wet clutch with coil spring. Sistem pendingin mesin dilengkapi dengan liquid cooled dengan auto electric fan. Pola perpindahan gigi pada mesin ini adalah 1-N-2-3-4-5-6. Jenis pelumas yang digunakan adalah wet (pressing and spray), dengan kapasitas oli sebesar 1,9 L.",
       "harga": "80,106,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-400x300-ys-3-19092022-074605.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-400x300-ys-3-19092022-074605.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/head-banner-1920x800-ys-2-19092022-080230-1-1-25102023-082350.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/lifestyle-photo-1-banner-1920x800-ys-1-19092022-080100.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/lifestyle-photo-2-banner-1920x800-ys-2-19092022-080105.jpg"
     },
     {
       "id": 3,
       "namaBarang": "CB150X",
       "deskripsi": "Mesin motor ini mengadopsi konfigurasi 4 langkah dan menggunakan teknologi DOHC (Double Overhead Camshaft) dengan 4 katup. Dengan volume langkah sebesar 149,16 cc, mesin ini dirancang untuk memberikan performa yang optimal. Sistem suplai bahan bakarnya menggunakan PGM-FI (Programmed Fuel Injection), memastikan penggunaan bahan bakar yang efisien. Dengan diameter x langkah sebesar 57,3 x 57,843 mm, mesin ini memiliki perbandingan kompresi sebesar 11,3:1, yang berkontribusi pada efisiensi pembakaran. Transmisinya manual dengan 6 kecepatan, memberikan pengendara kontrol penuh terhadap perpindahan gigi. Daya maksimum yang dihasilkan mencapai 11,5 kW (15,6 PS) pada 9.000 rpm, sementara torsi maksimumnya mencapai 13,8 Nm (1,41 kgf.m) pada 7.000 rpm. Starter elektrik memudahkan proses start, dan koplingnya menggunakan Multiple Wet Clutch with Coil Spring, memberikan respons yang baik dalam pengendalian. Mesin ini didinginkan secara cairan (liquid cooled) untuk menjaga suhu operasional yang optimal. Pola pengoperan giginya adalah 1 - N - 2 - 3 - 4 - 5 - 6, sementara tipe minyak pelumas yang digunakan adalah tipe basah (wet), mendukung kinerja mesin dengan baik. Dengan spesifikasi ini, motor ini menawarkan kombinasi antara performa, efisiensi, dan kemudahan pengendalian.",
       "harga": "34,420,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/fa-ahm-sport-mid-thumbnail-400x300pxl-ys-3-20122022-114842.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/fa-ahm-sport-mid-thumbnail-400x300pxl-ys-3-20122022-114842.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/fa-ahm-sport-mid-home-banner-1920x800pxl-ys-2-20122022-014926-25102023-075437.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/fa-ahm-sport-mid-thumbnail-400x300pxl-ys-3-20122022-114842.png",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/cb1504-27052021-092449.png"
     },
     {
       "id": 4,
       "namaBarang": "CB150R StreetFire",
       "deskripsi": "Mesin ini memiliki tipe 4 Langkah DOHC 4 Katup dengan kapasitas 149,16 cc. Sistem suplai bahan bakarnya menggunakan PGM-FI (Programmed Fuel Injection), sedangkan ukuran diameter x langkahnya adalah 57,3 x 57,843 mm. Tipe transmisinya adalah manual dengan 6 kecepatan, dan memiliki perbandingan kompresi sebesar 11,3:1. Daya maksimum yang dihasilkan mencapai 12,4 kW (16,9 PS) pada putaran 9.000 rpm, sementara torsi maksimumnya mencapai 13,8 Nm (1,41 kgf.m) pada 7.000 rpm. Mesin ini dilengkapi dengan tipe starter elektrik dan kopling multiple wet clutch with coil spring. Untuk sistem pendinginnya menggunakan liquid cooled, dan pola perpindahan giginya adalah 1 - N - 2 - 3 - 4 - 5 - 6. Tipe minyak pelumas yang digunakan adalah wet.",
       "harga": "31,530,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/cb1504-27052021-092449.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/cb1504-27052021-092449.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/top-banner-product-3-07052021-090526-1-25102023-075345.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-2-9-07052021-090449.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-2-9-07052021-090449.jpg"
     },
     {
       "id": 5,
       "namaBarang": "CB150 Verza",
       "deskripsi": "Motor ini menggunakan mesin 4 langkah dengan konfigurasi SOHC (Single Overhead Camshaft) dan satu silinder. Sistem suplai bahan bakarnya mengandalkan PGM-FI (Programmed Fuel Injection), memastikan efisiensi penggunaan bahan bakar. Dengan diameter x langkah sebesar 57,3 x 57,8 mm, mesin ini dirancang untuk memberikan keseimbangan antara tenaga dan efisiensi. Transmisi motor ini memiliki 5 tingkat kecepatan, memberikan fleksibilitas dalam menghadapi berbagai kondisi berkendara. Rasio kompresinya sebesar 9,5:1, yang berkontribusi pada performa mesin. Daya maksimum yang dihasilkan mencapai 9,59 kW (13,04 PS) pada 8.500 rpm, sementara torsi maksimumnya mencapai 12,73 Nm (1,30 kgf.m) pada 6.000 rpm. Motor ini dilengkapi dengan dua tipe starter, yaitu pedal dan elektrik, memberikan opsi yang nyaman dalam proses start. Koplingnya menggunakan tipe manual, multiplate, wet clutch, memberikan pengendalian yang baik. Sistem pendingin mesin menggunakan pendingin udara, menjaga suhu operasional dalam batas yang aman. Pola perpindahan giginya adalah 1-N-2-3-4-5, memudahkan pengendara dalam mengatur kecepatan. Dengan spesifikasi ini, motor ini menawarkan kombinasi antara efisiensi, kinerja, dan kemudahan pengendalian.",
       "harga": "20,945,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thmbnl-4-15062021-064230.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thmbnl-4-15062021-064230.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-10-15062021-065211.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-10-15062021-065211.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-2-11-15062021-065231.jpg"
     },
     {
       "id": 6,
       "namaBarang": "Sonic 150R",
       "deskripsi": "Mesin ini memiliki tipe 4 Langkah DOHC dengan 4 Katup, berkapasitas 149.16 cc. Sistem suplai bahan bakarnya menggunakan PGM-FI, dan ukuran diameter x langkahnya adalah 57.3 x 57.8 mm. Dilengkapi dengan transmisi manual 6 kecepatan, rasio kompresi sebesar 11.3:1, serta mampu menghasilkan daya maksimum sebesar 11.8 kW (16.0 PS) pada 9,000 rpm. Torsi maksimum yang dapat dicapai mencapai 13.5 Nm (1.38 kgf.m) pada 6,500 rpm. Sistem starter dapat diaktifkan baik melalui pedal maupun secara elektrik. Kopling mesin menggunakan tipe Multiple Wet Clutch Coil Spring. Untuk menjaga suhu mesin, sistem pendinginnya menggunakan Liquid Cooled with Auto Fan. Pola perpindahan gigi pada mesin ini adalah 1 - N - 2 - 3 - 4 - 5 - 6.",
       "harga": "25,925,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/sonic-150r-2-27052021-092049.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/sonic-150r-2-27052021-092049.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/product-desktop-banner-31-16042021-014908-25102023-075228.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/news-desktop-banner-10-16042021-014853.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/carousel-slider-desktop-banner-1-6-16042021-014844.jpg"
     },
     {
       "id": 7,
       "namaBarang": "CRF150L",
       "deskripsi": "Motor ini ditenagai oleh mesin 4-langkah dengan konfigurasi SOHC (Single Overhead Camshaft) dan satu silinder, memiliki kapasitas mesin sebesar 149.15 cm3. Untuk pengaturan bahan bakar, motor ini menggunakan PGM-FI (Programmed Fuel Injection), yang memberikan efisiensi dalam konsumsi bahan bakar. Dengan diameter x langkah sebesar 57.3 x 57.8 mm, mesin ini dirancang untuk memberikan keseimbangan antara performa dan efisiensi. Transmisi motor ini hadir dalam 5 tingkat kecepatan (5-Speed), memberikan pengendara pilihan dalam mengatasi berbagai situasi berkendara. Rasio kompresi mesin sebesar 9.5:1, memastikan kinerja mesin yang optimal. Daya maksimum yang dihasilkan mencapai 9,51 kW (12,91 PS) pada 8.000 rpm, sementara torsi maksimumnya mencapai 12,43 Nm (1,27 kgf.m) pada 6.500 rpm. Dalam hal sistem start, motor ini dilengkapi dengan dua tipe starter, yaitu pedal dan elektrik, menawarkan fleksibilitas dalam proses start. Koplingnya menggunakan tipe manual, multiplate wet clutch, memberikan kontrol yang baik kepada pengendara. Sistem pendingin mesin menggunakan metode pendingin udara, menjaga suhu operasional mesin dalam batas yang aman. Pola perpindahan giginya adalah 1 – N – 2 – 3 – 4 – 5, memberikan kemudahan dalam mengatur kecepatan dan mengoptimalkan kinerja motor sesuai dengan kebutuhan pengendara. Dengan kombinasi fitur-fitur ini, motor ini menawarkan paket yang seimbang antara efisiensi, kinerja, dan kemudahan pengendalian.",
       "harga": "35,930,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-motor-new-crf150l-1-25102021-084848.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-motor-new-crf150l-1-25102021-084848.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/product-banner-new-crf150l-1-25102021-085935-1-25102023-075614.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/product-banner-new-crf150l-1-25102021-085935-1-25102023-075614.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-banner-1-18-25102021-085736.jpg"
     },
     {
       "id": 8,
       "namaBarang": "CRF250L",
       "deskripsi": "Mesin motor ini memiliki konfigurasi 4-langkah dengan DOHC (Double Overhead Camshaft) dan satu silinder 4-katup, memberikan daya yang tangguh dan efisien. Untuk menjaga suhu operasional yang optimal, sistem pendinginan menggunakan pendinginan cair. Suplai bahan bakar diatur oleh sistem PGM-FI (Programmed Fuel Injection), meningkatkan efisiensi bahan bakar dan performa. Dengan kapasitas mesin sebesar 249,67 cc dan diameter x langkah sebesar 76 x 55 mm, mesin ini dirancang untuk mencapai keseimbangan antara daya dan efisiensi. Rasio kompresi diatur pada 10,7:1, berkontribusi pada pembakaran yang efektif. Motor mampu memberikan daya maksimum sebesar 18,9 kW pada 8.500 rpm dan torsi maksimum sebesar 23,1 Nm pada 6.500 rpm, memberikan performa yang memadai untuk berbagai kondisi berkendara. Dilengkapi dengan transmisi manual 6 percepatan, motor ini menawarkan fleksibilitas dalam mengatur kecepatan dan menghadapi berbagai situasi berkendara. Pola perpindahan gigi mengikuti urutan 1-N-2-3-4-5-6, memungkinkan perpindahan gigi yang mulus. Kombinasi teknologi mesin canggih, sistem pendinginan yang efisien, dan transmisi responsif membuat motor ini menjadi pilihan yang seimbang bagi pengendara yang menginginkan kombinasi antara kekuatan dan kendali.",
       "harga": "79,900,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-motor-400x300-copy-2-16022023-110718.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-motor-400x300-copy-2-16022023-110718.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/home-banner-1366x573-1-16022023-111823-25102023-075946.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/lifestyle-photo-1920x800-1-16022023-111810.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/uploads/product-draft/colors/varian-515x504-2-16022023-111425.png"
     },
     {
       "id": 9,
       "namaBarang": "CRF250 RALLY",
       "deskripsi": "Motor ini dibekali dengan mesin 4-langkah berkonfigurasi DOHC (Double Overhead Camshaft) dengan satu silinder dan 4 katup, memberikan kombinasi performa dan efisiensi. Dengan kapasitas mesin sebesar 249.6cc, motor ini menghadirkan tenaga yang cukup untuk pengalaman berkendara yang memuaskan, dan suplai bahan bakarnya diatur oleh sistem PGM-FI untuk efisiensi bahan bakar yang optimal. Dengan diameter x langkah sebesar 76 x 55 mm, mesin ini memiliki rasio kompresi sebesar 10.7:1, memastikan pembakaran bahan bakar yang efisien. Transmisi manual 6 percepatan memberikan fleksibilitas dalam mengelola kecepatan, dengan pola perpindahan gigi 1 - N - 2 - 3 - 4 - 5 - 6. Mesin mampu menghasilkan daya maksimum sebesar 18.9 kW pada 8,500 rpm dan torsi maksimum sebesar 23.1 Nm pada 6,500 rpm, memberikan performa tinggi untuk kebutuhan pengendara. Starter listrik mempermudah proses start, sementara kopling tipe wet multi-plate wet clutch memberikan respons yang baik dan kontrol yang stabil. Sistem pendinginan mesin menggunakan metode liquid-cooled, menjaga suhu operasional mesin agar tetap optimal dalam berbagai kondisi. Dengan kombinasi fitur-fitur canggih ini, motor ini menawarkan paket performa yang handal dan responsif untuk pengendara yang menginginkan pengalaman berkendara yang memuaskan.",
       "harga": "92,930,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-crf250rally-upload-4-06082021-090511.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-crf250rally-upload-4-06082021-090511.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/banner/home-banner-crf250rally-5-16042021-050557.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-3-4-16042021-050430.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-2-5-16042021-050520.jpg"
     },
     {
       "id": 10,
       "namaBarang": "ST125 Dax",
       "deskripsi": "Motor ini mengusung mesin 4-langkah dengan konfigurasi SOHC (Single Overhead Camshaft) 2 katup, menawarkan kinerja yang handal. Dengan volume langkah sebesar 124 cc, motor ini dirancang untuk memberikan kombinasi antara efisiensi bahan bakar dan tenaga yang cukup untuk kebutuhan sehari-hari. Sistem suplai bahan bakarnya menggunakan PGM-FI (Programmed Fuel Injection), memastikan penggunaan bahan bakar yang optimal. Dengan diameter x langkah sebesar 50 x 63,1 mm, mesin ini memiliki perbandingan kompresi sebesar 10:1, yang berkontribusi pada efisiensi pembakaran. Transmisi manual 4 kecepatan memberikan pengendara kontrol penuh terhadap perpindahan gigi, dengan pola pengoperan gigi N - 4 - 3 - 2 - 1 - N. Mesin mampu menghasilkan daya maksimum sebesar 6,6 kW pada 7.000 rpm dan torsi maksimum sebesar 10,4 Nm pada 5.000 rpm, menciptakan performa yang sesuai dengan kebutuhan sehari-hari. Starter listrik memudahkan proses start, sementara kopling tipe wet multiple clutch memberikan respons yang baik dalam pengendalian. Sistem pendinginan menggunakan pendinginan udara (air-cooled), menjaga suhu mesin agar tetap dalam batas yang aman. Dengan kombinasi fitur-fitur ini, motor ini menawarkan solusi transportasi yang handal dan efisien.",
       "harga": "82,030,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/honda-st125-dax-9-08082022-113917.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/honda-st125-dax-9-08082022-113917.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/honda-st125-dax-15-15082022-022644-1-25102023-082513.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/lifestyle-4-12-08082022-114938.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/lifestyle-3-14-08082022-114930.jpg"
     },
     {
       "id": 11,
       "namaBarang": "Monkey",
       "deskripsi": "Motor ini dibekali dengan mesin 4-langkah berkonfigurasi SOHC (Single Overhead Camshaft) 2-Valve, menawarkan kombinasi efisiensi dan kinerja yang solid. Dengan kapasitas mesin sebesar 124 cc, motor ini dirancang untuk memberikan daya yang memadai untuk perjalanan sehari-hari, sementara sistem suplai bahan bakarnya menggunakan PGM-FI (Programmed Fuel Injection) untuk meningkatkan efisiensi bahan bakar. Dengan diameter x langkah sebesar 50 x 63,1 mm, mesin ini memiliki rasio kompresi sebesar 10:1, memastikan proses pembakaran berlangsung secara efisien. Transmisi manual 5 kecepatan memberikan pengendara fleksibilitas dalam mengatasi berbagai kondisi jalan. Mesin mampu menghasilkan daya maksimum sebesar 6,9 kW pada 6.750 rpm dan torsi maksimum sebesar 11 Nm pada 5.500 rpm, memberikan performa yang sesuai dengan kebutuhan sehari-hari. Starter listrik mempermudah proses start, sementara kopling tipe wet multiple clutch memberikan respons yang baik dalam pengendalian. Sistem pendinginan mesin menggunakan metode air-cooled, menjaga suhu operasional mesin agar tetap optimal. Dengan kombinasi fitur-fitur ini, motor ini menjadi pilihan yang handal untuk mobilitas sehari-hari dengan efisiensi bahan bakar yang baik.",
       "harga": "82,970,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/product-thumbnail-13-25102022-081932.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/product-thumbnail-13-25102022-081932.png",
+      "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/product-banner-18-25102022-085345.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/uploads/product-draft/colors/variant-color-2-1-25102022-085031.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/uploads/product-draft/colors/variant-color-1-1-25102022-085034.jpg"
     }
   ],
   "Bebek": [
@@ -166,35 +199,49 @@
       "namaBarang": "Revo",
       "deskripsi": "Mesin ini memiliki tipe 4-langkah dengan sistem SOHC dan eSP. Sistem suplai bahan bakarnya menggunakan PGM-FI (Programmed Fuel Injection), dengan diameter x langkah sebesar 47,0 x 63,1 mm. Transmisinya adalah tipe automatic V-Matic, dengan rasio kompresi sebesar 10,0:1. Daya maksimum yang dihasilkan adalah 6,6 kW (9,0 PS) pada 7.500 rpm, sedangkan torsi maksimum mencapai 9,3 Nm (0,95 kgf.m) pada 5.500 rpm. Mesin ini dilengkapi dengan tipe starter elektrik dan kick starter, serta tipe kopling automatic centrifugal clutch dry type.",
       "harga": "16,020,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thmbnail-product-2-24012022-110536.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thmbnail-product-2-24012022-110536.png",
+      "detail header ": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-2-9-07052021-090449.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/banner-lifestyle-7-24012022-110631.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/lifestyle-banner-2-16-21012022-073237-24012022-110641.jpg"
     },
     {
       "id": 2,
       "namaBarang": "Supra X 125 FI",
       "deskripsi": "Mesin ini adalah tipe 4-langkah dengan konfigurasi SOHC dan menggunakan pendingin udara, serta dilengkapi teknologi eSP. Sistem suplai bahan bakarnya mengandalkan PGM-FI (Programmed Fuel Injection). Dengan diameter x langkah sebesar 47 x 63,1 mm, mesin ini memiliki transmisi otomatis tipe V-Matic, rasio kompresi 10:1, daya maksimum 6,6 kW (9 PS) pada 7.500 rpm, dan torsi maksimum 9,3 Nm (0,95 kgf.m) pada 5.500 rpm. Starter dapat dilakukan baik dengan elektrik & kick starter maupun hanya menggunakan elektrik (Tipe Smart Key). Koplingnya menggunakan sistem otomatis, sentrifugal, dengan tipe kering.",
       "harga": "19,100,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-new-supra-x-5-04032022-102907.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-new-supra-x-5-04032022-102907.png",
+      "detail header ": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/lifestyle-banner-2-16-21012022-073237-24012022-110641.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/banner-lifestyle-9-04032022-102604.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/banner-lifestylem2-1-04032022-102608.jpg"
     },
     {
       "id": 3,
       "namaBarang": "GTR 150",
       "deskripsi": "Mesin ini adalah tipe 4-langkah dengan 4 katup dan dilengkapi teknologi eSP+. Sistem pendinginnya menggunakan pendingin cairan, sedangkan suplai bahan bakarnya mengandalkan PGM-FI (Programmed Fuel Injection). Dengan volume langkah sebesar 156,9 cc dan diameter x langkah sebesar 60 x 55,5 mm, mesin ini memiliki perbandingan kompresi sebesar 12:1. Daya maksimum yang dihasilkan mencapai 11,8 kW (16 PS) pada 8.500 rpm, sedangkan torsi maksimumnya adalah 14,7 Nm (1,5 kgf.m) pada 6.500 rpm. Transmisinya otomatis dengan tipe V-Matic, dan dilengkapi dengan starter elektrik. Koplingnya menggunakan sistem otomatis, sentrifugal, dengan tipe kering. Kapasitas minyak pelumasnya adalah 0,8 liter untuk penggantian periodik.",
       "harga": "25,180,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/supra-gtr-150-4-27052021-092133.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/supra-gtr-150-4-27052021-092133.png",
+      "detail header ": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/product-desktop-banner-33-16042021-015802-1-3-25102023-074825.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/honda-technology-banner-20-16042021-015740.jpg",
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/news-desktop-banner-11-16042021-015744.jpg"
     },
     {
       "id": 4,
       "namaBarang": "CT125",
       "deskripsi": "Mesin ini adalah tipe 4-langkah dengan konfigurasi 4 katup dan dilengkapi teknologi eSP+. Sistem pendinginannya menggunakan pendingin cairan. Suplai bahan bakarnya menggunakan PGM-FI (Programmed Fuel Injection) dengan volume langkah sebesar 156,9 cc, serta diameter x langkah sebesar 60 x 55,5 mm. Perbandingan kompresinya adalah 12:1. Mesin ini mampu menghasilkan daya maksimum sebesar 11,8 kW (16 PS) pada 8.500 rpm, dengan torsi maksimum mencapai 14,7 Nm (1,5 kgf.m) pada 6.500 rpm. Transmisinya otomatis dengan tipe V-Matic, dilengkapi starter elektrik, dan menggunakan kopling otomatis, sentrifugal, tipe kering. Minyak pelumas yang digunakan adalah tipe basah, dengan kapasitas 0,75 liter untuk penggantian periodik.",
       "harga": "81,400,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/ct125-400x300-3-14062023-040229.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/ct125-400x300-3-14062023-040229.png",
+      "detail header ": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/karosel-banner-2-3-14062023-040311.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/karosel-banner-1-3-14062023-040306.jpg"
     },
     {
       "id": 5,
       "namaBarang": "Supercub C125",
       "deskripsi": "Motor ini merupakan sebuah mesin 4-stroke SOHC 2-Valve dengan kapasitas mesin sebesar 124 cc. Sistem suplai bahan bakarnya menggunakan PGM-FI untuk meningkatkan efisiensi pembakaran. Dengan diameter x langkah sebesar 50 x 63,1 mm, transmisinya manual 4-speed, memberikan kendali yang baik terhadap daya dan torsi. Rasio kompresi yang mencapai 10:1 menunjukkan performa yang efisien dalam memadukan udara dan bahan bakar. Mesin ini dapat menghasilkan daya maksimum sebesar 7,2 kW pada 7.500 rpm, sementara torsi maksimumnya mencapai 10,4 Nm pada 6.250 rpm, memberikan pengendara pengalaman berkendara yang dinamis. Dengan tipe starter elektrik dan kopling basah (wet) yang menggunakan multiple with coil spring, motor ini menawarkan kemudahan dalam penggunaan sehari-hari. Sistem pendingin mesin berbasis air-cooled membantu menjaga suhu mesin agar tetap optimal selama perjalanan.",
       "harga": "77,160,000",
-      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-product-upload-3-1-02082021-074747.png"
+      "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-product-upload-3-1-02082021-074747.png",
+      "detail header ": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/super-cub-product-page-banner-3-02082021-074936-1-25102023-074945.jpg",
+      "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product/lifestyle/lifestyle-2-14-02082021-074636.jpg",
+      "bawah e tengah": "https://www.astra-honda.com/product/super-cub-c125"
     }
   ]
 }

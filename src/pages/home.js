@@ -4,6 +4,7 @@ import Card from "../components/card";
 import data from "../data.json";
 import NavSection from "../components/navSection";
 import Carousel from "../components/carousel";
+import CorporateHome from "./corporateHome";
 function Home() {
   const Data = data;
   return (
@@ -17,6 +18,7 @@ function Home() {
       {/* nav section */}
 
       <NavSection />
+      <CorporateHome />
 
       {/* <div>
         <div className="container-fluid row p-5">

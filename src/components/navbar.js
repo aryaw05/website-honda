@@ -1,11 +1,14 @@
 import { Link } from "react-router-dom";
-// import { Link } from "react-scroll  ";
+import { HashLink } from "react-router-hash-link";
 
 function Navbar() {
   return (
     <div>
       <div>
-        <nav className="navbar navbar-expand-lg" id="menunav">
+        <nav
+          className="navbar navbar-expand-lg fixed-top overflow-hidden"
+          id="menunav"
+        >
           <div className="container-fluid">
             <Link to={"/"} className="navbar-brand">
               <img
@@ -34,8 +37,8 @@ function Navbar() {
                   style={{ background: "white" }}
                 >
                   <li className="nav-item menu-item" id="menu-btn1">
-                    <Link className="nav-link menu-link" to={"/corporate"}>
-                      <span className="menu-link-txt">CORPORATE</span>
+                    <Link className="nav-link menu-link" to={"/"}>
+                      <span className="menu-link-txt">Home</span>
                     </Link>
                   </li>
                   <li className="nav-item menu-item" id="menu-btn2">
@@ -49,20 +52,20 @@ function Navbar() {
                     </Link> */}
                   </li>
                   <li className="nav-item menu-item" id="menu-btn4">
-                    <Link className="nav-link menu-link" to={"/services"}>
+                    <HashLink className="nav-link menu-link" to="/#cardHeader">
                       <span className="menu-link-txt">SERVICES</span>
-                    </Link>
+                    </HashLink>
                   </li>
                   <li className="nav-item menu-item" id="menu-btn5">
                     <Link className="nav-link menu-link" to={"/sparepart"}>
                       <span className="menu-link-txt">PARTS</span>
                     </Link>
                   </li>
-                  <li className="nav-item menu-item menu-racing-block">
+                  {/* <li className="nav-item menu-item menu-racing-block">
                     <Link className="nav-link menu-link" to="/racing/">
                       <span className="menu-link-txt">RACING</span>
                     </Link>
-                  </li>
+                  </li> */}
                   {/* <li
                     className="nav-item menu-item menu-films-block"
                     id="menu-btn3"

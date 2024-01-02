@@ -1,7 +1,7 @@
 function Corporate() {
   return (
     <div>
-      <div class="container-fluid">
+      <div class="container-fluid" style={{ marginTop: "100px" }}>
         <div class="corporate text-center">
           <img
             src="https://cdn0-production-images-kly.akamaized.net/NVx8mZYPUGS9JeKLp-ZpEzDbYxQ=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1267131/original/011067400_1466153211-1066368.jpg"
@@ -61,7 +61,6 @@ function Corporate() {
           </p>
         </div>
       </div>
-    
     </div>
   );
 }

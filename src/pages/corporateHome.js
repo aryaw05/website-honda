@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function CorporateHome() {
   return (
-    <div class="container-fluid  p-4 mt-5">
+    <div class="container-fluid  p-4 mt-5 mx-auto">
       <div>
         <h1 class="text-center" style={{ color: "#e61b33", fontWeight: "700" }}>
           Corporate
@@ -27,7 +27,7 @@ function CorporateHome() {
             efisiensi produksi dan kualitas produk. Proses produksi di pabrik
             Honda mencakup tahap-tahap seperti perakitan kendaraan, produksi
             mesin, dan pembuatan suku cadang.{" "}
-            <Link to="/corporate">Baca Selengkapnya</Link>
+            <a href="/corporate">Baca Selengkapnya</a>
           </p>
         </div>
       </div>

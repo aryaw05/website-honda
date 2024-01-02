@@ -13,7 +13,7 @@
     {
       "id": 2,
       "namaBarang": "Scoopy",
-      "deskripsi": "Mesin dari motor ini adalah tipe 4-langkah dengan konfigurasi SOHC dan menggunakan pendingin udara, serta dilengkapi teknologi eSP. Sistem suplai bahan bakarnya mengandalkan PGM-FI (Programmed Fuel Injection). Dengan diameter x langkah sebesar 47 x 63,1 mm, mesin ini memiliki transmisi otomatis tipe V-Matic, rasio kompresi 10:1, daya maksimum 6,6 kW (9 PS) pada 7.500 rpm, dan torsi maksimum 9,3 Nm (0,95 kgf.m) pada 5.500 rpm. Starter dapat dilakukan baik dengan elektrik & kick starter maupun hanya menggunakan elektrik (Tipe Smart Key). Koplingnya menggunakan sistem otomatis, sentrifugal, dengan tipe kering.",
+      "deskripsi": "Mesin dari motor ini adalah tipe 4-langkah dengan konfigurasi SOHC dan menggunakan pendingin udara, serta dilengkapi teknologi eSP. Sistem suplai bahan bakarnya mengandalkan PGM-FI (Programmed Fuel Injection). Dengan diameter x langkah sebesar 47 x 63,1 mm, mesin ini memiliki transmisi otomatis tipe V-Matic, rasio kompresi 10:1,  daya maksimum 6,6 kW (9 PS) pada 7.500 rpm, dan torsi maksimum 9,3 Nm (0,95 kgf.m) pada 5.500 rpm. Starter dapat dilakukan baik dengan elektrik & kick starter maupun hanya menggunakan elektrik (Tipe Smart Key). Koplingnya menggunakan sistem otomatis, sentrifugal, dengan tipe kering.",
       "harga": "22,780,000",
       "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/uploads/product/thumbnail/ahm-chic-2023-variant-web-stylish-green-reverse-2-26102023-030159.png",
       "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/ahm-update-website-slide-17-headbanner-1920x800-2-26102023-031732.jpg",
@@ -28,7 +28,9 @@
       "gambar": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thumbnail-pcx160-400x300-tr-21112023-055149.png",
       "detail header": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/banner/head-banner-pcx160-1920x800-tr-2-21112023-055716.jpg",
       "tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/lifestyle/1-58-13122022-125124-21112023-055642.jpg",
-      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/technology/1-59-13122022-125141.jpg"
+      "bawah e tengah": "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1400,pr-true,f-auto/uploads/product-draft/technology/1-59-13122022-125141.jpg",
+
+      "arysad" : "asasas <Link>aRYA</Link>"
     },
     {
       "id": 4,

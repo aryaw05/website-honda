@@ -8,6 +8,7 @@ import Footer from "./components/footer";
 import Dealer from "./pages/dealer";
 import Sparepart from "./pages/spareparts";
 import Corporate from "./pages/corporate";
+import Navigasi from "./pages/navigasi";
 function App() {
   return (
     <div>
@@ -23,6 +24,7 @@ function App() {
         <Route path="/dealer" element={<Dealer />} />
         <Route path="/sparepart" element={<Sparepart />} />
         <Route path="/corporate" element={<Corporate />} />
+        <Route path="/navigasi" element={<Navigasi />} />
       </Routes>
 
       <Footer />

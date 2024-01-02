@@ -6,6 +6,7 @@ function Corousel() {
         id="carouselExampleDark"
         className="carousel carousel-dark slide"
         data-bs-ride="carousel"
+        style={{ marginTop: "100px" , }}
       >
         <div className="carousel-indicators">
           <button

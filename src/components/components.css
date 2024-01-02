@@ -8,7 +8,33 @@ nav {
   font-family: "Play", sans-serif;
 }
 
-
+/* Card */
+.cardHeader {
+  color: black;
+  width: 400px;
+  /* margin: 10px 100px; */
+  padding: 15px;
+  /* background-image: linear-gradient(270deg, #e32121, #aa1010); */
+  border : 1px solid #e61b33;
+  overflow: hidden;
+  transition: 500ms ;
+  -webkit-mask-image: linear-gradient(yellow);
+}
+.cardHeader img {
+  height: 250px;
+  
+}
+.cardHeader .text {
+  padding: 10px 0 50px 0;
+}
+.card span {
+  z-index: 1;
+}
+.card .cardCover {
+  height: 200px;
+}
+.card p {
+}
 .nav-section h2 {
   color: #e61b33;
   font-weight: bold;

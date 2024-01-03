@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 function Footer() {
   return (
     <footer>
-      <div class="footer-top">
-        <div class="container">
-          <div class="row ">
-            <div class="col-lg-3 col-md-6 footer-contact my-auto">
+      <div className="footer-top">
+        <div className="container">
+          <div className="row ">
+            <div className="col-lg-3 col-md-6 footer-contact my-auto">
               <img
                 className="img-fluid w-50 mb-3"
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Honda_Logo.svg/747px-Honda_Logo.svg.png"
@@ -17,7 +17,7 @@ function Footer() {
               </p>
             </div>
 
-            <div class="col-lg-2 col-md-6 footer-links  my-auto">
+            <div className="col-lg-2 col-md-6 footer-links  my-auto">
               <div>
                 <img
                   src="https://ik.imagekit.io/zlt25mb52fx/ahmcdn/assets/images/logo/blue-skies.svg"
@@ -32,29 +32,29 @@ function Footer() {
               </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 footer-links  my-auto">
+            <div className="col-lg-3 col-md-6 footer-links  my-auto">
               <h4>Our Services</h4>
               <ul>
                 <li>
-                  <i class="bx bx-chevron-right"></i>{" "}
+                  <i className="bx bx-chevron-right"></i>{" "}
                   <Link to={"/dealer"}>Dealer</Link>
                 </li>
                 <li>
-                  <i class="bx bx-chevron-right"></i>
+                  <i className="bx bx-chevron-right"></i>
                   <Link to={"/afterSales"}>After Salse</Link>
                 </li>
                 <li>
-                  <i class="bx bx-chevron-right"></i>
+                  <i className="bx bx-chevron-right"></i>
                   <Link to={"/corporate"}>Corporate</Link>
                 </li>
                 <li>
-                  <i class="bx bx-chevron-right"></i>{" "}
+                  <i className="bx bx-chevron-right"></i>{" "}
                   <Link to={"/product"}>Product</Link>
                 </li>
               </ul>
             </div>
 
-            <div class="col-lg-4 col-md-6 footer-newsletter  my-auto">
+            <div className="col-lg-4 col-md-6 footer-newsletter  my-auto">
               <h4>Join Our Newsletter</h4>
               <p>
                 Tamen quem nulla quae legam multos aute sint culpa legam noster

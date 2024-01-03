@@ -1,5 +1,5 @@
 import "./components.css";
-import { Link } from "react-router-dom";
+import { HashLink } from "react-router-hash-link";
 
 function NavSection() {
   const data = {
@@ -25,29 +25,16 @@ function NavSection() {
     ],
   };
 
-  const handleLinkClick = (jenis) => {
-    // Menunda pengguliran selama 1 detik (1000 milidetik)
-    setTimeout(() => {
-      const targetElement = document.getElementById(jenis);
-      if (targetElement) {
-        targetElement.scrollIntoView({ behavior: "smooth" });
-      }
-    }, 100);
-  };
-
   return (
     <div className="nav-section mt-5 container-fluid" id="nav-section">
       <h2 className="text-center">Product Category</h2>
       <div className="d-flex gap-5 flex-wrap justify-content-center">
         {data.category.map((e) => (
           <div key={e.id}>
-            <Link
-              to={`/product/#${e.jenis}`}
-              onClick={() => handleLinkClick(e.jenis)}
-            >
+            <HashLink to={`/product/#${e.jenis}`}>
               <img src={e.cover} alt="..." />
               <p className="text-center">{e.jenis} </p>
-            </Link>
+            </HashLink>
           </div>
         ))}
       </div>

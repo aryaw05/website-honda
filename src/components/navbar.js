@@ -5,10 +5,7 @@ function Navbar() {
   return (
     <div>
       <div>
-        <nav
-          className="navbar navbar-expand-lg fixed-top overflow-hidden"
-          id="menunav"
-        >
+        <nav className="navbar navbar-expand-lg fixed-top" id="menunav">
           <div className="container-fluid">
             <Link to={"/"} className="navbar-brand">
               <img
@@ -37,12 +34,24 @@ function Navbar() {
                   style={{ background: "white" }}
                 >
                   <li className="nav-item menu-item" id="menu-btn1">
-                    <Link className="nav-link menu-link" to={"/"}>
+                    <Link
+                      className="nav-link menu-link"
+                      to={"/"}
+                      onClick={() => {
+                        window.scroll(0, 0);
+                      }}
+                    >
                       <span className="menu-link-txt">Home</span>
                     </Link>
                   </li>
                   <li className="nav-item menu-item" id="menu-btn2">
-                    <Link className="nav-link menu-link" to={"/product"}>
+                    <Link
+                      className="nav-link menu-link"
+                      to={"/product"}
+                      onClick={() => {
+                        window.scroll(0, 0);
+                      }}
+                    >
                       <span className="menu-link-txt">PRODUCTS</span>
                     </Link>
                   </li>
@@ -57,7 +66,13 @@ function Navbar() {
                     </HashLink>
                   </li>
                   <li className="nav-item menu-item" id="menu-btn5">
-                    <Link className="nav-link menu-link" to={"/sparepart"}>
+                    <Link
+                      className="nav-link menu-link"
+                      to={"/sparepart"}
+                      onClick={() => {
+                        window.scroll(0, 0);
+                      }}
+                    >
                       <span className="menu-link-txt">PARTS</span>
                     </Link>
                   </li>

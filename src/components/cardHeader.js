@@ -16,7 +16,6 @@ function CardHeader(props) {
       setOpen("expand_more");
       setMore(" Baca Selengkapnya");
     }
-    console.log("more:", more);
   };
   return (
     <div className="col-md-4 mt-5 " id="cardHeader">
@@ -36,7 +35,7 @@ function CardHeader(props) {
 
           <span
             onClick={handleClick}
-            class="material-icons-outlined "
+            className="material-icons-outlined "
             style={{
               color: "red",
               fontSize: "50px",

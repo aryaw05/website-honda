@@ -3,7 +3,7 @@ import { HashLink } from "react-router-hash-link";
 
 function CorporateHome() {
   return (
-    <div className="container-fluid  p-4 mt-5 mx-auto">
+    <div className="container-fluid  p-4 mt-3 mx-auto">
       <div>
         <h1 className="text-center" style={{ color: "#e61b33", fontWeight: "700" }}>
           Corporate

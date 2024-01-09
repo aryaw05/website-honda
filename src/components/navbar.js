@@ -41,7 +41,7 @@ function Navbar() {
                         window.scroll(0, 0);
                       }}
                     >
-                      <span className="menu-link-txt">Home</span>
+                      <span className="menu-link-txt">HOME</span>
                     </Link>
                   </li>
                   <li className="nav-item menu-item" id="menu-btn2">

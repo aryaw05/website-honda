@@ -15,7 +15,7 @@ function Card(props) {
       to={"/detail"}
       onClick={cardDetail}
     >
-      <div className="card" style={{ width: "18rem" }}>
+      <div className="card mx-auto" style={{ width: "18rem" }}>
         <img src={src} className="card-img-top" alt="...." />
         <div className="card-body" id={cardkey} value={category}>
           <h5 className="card-title">{title}</h5>

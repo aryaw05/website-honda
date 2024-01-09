@@ -40,7 +40,12 @@ const Navigasi = () => {
 
   return (
     <div className="nav-section mt-5 container-fluid" id="nav-section">
-      <h2 className="text-center">Product Category</h2>
+      <h2
+        className="text-center mt-5"
+        style={{ color: "#e61b33", fontWeight: "bold" }}
+      >
+        Product Category
+      </h2>
       <div className="d-flex gap-5 flex-wrap justify-content-center">
         {dataNav.category.map((e) => (
           <div
@@ -57,14 +62,9 @@ const Navigasi = () => {
       </div>
 
       <div
-        style={{
-          WebkitMaskImage: "linear-gradient(black, transparent)",
-          maxHeight: "500px",
-
-          overflow: "hidden",
-        }}
+        className="row container-fluid mt-5"
+        style={{ height: "400px", overflow: "hidden" }}
       >
-        <h1 className="text-center">Product</h1>
         {dataProduct[category].map((e) => (
           <Card
             category={category}
@@ -81,8 +81,10 @@ const Navigasi = () => {
             }
           />
         ))}
-        <button className="btn btn-primary">pelajari Selengkapnya</button>
       </div>
+      <Link to={"/product/"}>
+        <button className="   btn btn-primary">pelajari Selengkapnya</button>
+      </Link>
     </div>
   );
 };

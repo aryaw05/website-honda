@@ -15,14 +15,13 @@ nav {
   /* margin: 10px 100px; */
   padding: 15px;
   /* background-image: linear-gradient(270deg, #e32121, #aa1010); */
-  border : 1px solid #e61b33;
+  border: 1px solid #e61b33;
   overflow: hidden;
-  transition: 500ms ;
+  transition: 500ms;
   -webkit-mask-image: linear-gradient(yellow);
 }
 .cardHeader img {
   height: 250px;
-  
 }
 .cardHeader .text {
   padding: 10px 0 50px 0;
@@ -33,13 +32,7 @@ nav {
 .card .cardCover {
   height: 200px;
 }
-.card p {
-}
-.nav-section h2 {
-  color: #e61b33;
-  font-weight: bold;
-}
-.nav-section div div {
+.nav-section div .nav-card {
   /* max-width: 00px;
   max-height: 100px; */
   /* background-color: #e61b33; */
@@ -48,12 +41,12 @@ nav {
   color: white;
   transform: skew(-20deg);
 }
-.nav-section div div a {
+.nav-section div .nav-card a {
   color: white;
   text-decoration: none;
 }
-.nav-section div div img {
-  max-width: 200px;
+.nav-section div .nav-card img {
+  max-width: 150px;
   transform: skew(20deg); /* Kompensasi transformasi skew */
 }
 /* Card */

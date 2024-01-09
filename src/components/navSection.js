@@ -1,8 +1,21 @@
-import "./components.css";
-import { HashLink } from "react-router-hash-link";
-
-function NavSection() {
-  const data = {
+import { Link } from "react-router-dom";
+import data from "../data.json";
+import { useState } from "react";
+import Card from "../components/card";
+const NavSection = () => {
+  const [category, setCategory] = useState("Matic");
+  const handleDetail = (id) => {
+    if (id === 1) {
+      setCategory("Matic");
+    } else if (id === 2) {
+      setCategory("Sport");
+    } else if (id === 3) {
+      setCategory("Bebek");
+    }
+    console.log("category:", category);
+  };
+  const dataProduct = data;
+  const dataNav = {
     category: [
       {
         id: 1,
@@ -26,20 +39,64 @@ function NavSection() {
   };
 
   return (
-    <div className="nav-section mt-5 container-fluid" id="nav-section">
-      <h2 className="text-center">Product Category</h2>
+    <div
+      className="nav-section mt-5 container-fluid container"
+      id="nav-section"
+    >
+      <h2
+        className="text-center mt-5"
+        style={{ color: "#e61b33", fontWeight: "bold" }}
+      >
+        Product Category
+      </h2>
       <div className="d-flex gap-5 flex-wrap justify-content-center">
-        {data.category.map((e) => (
-          <div key={e.id}>
-            <HashLink to={`/product/#${e.jenis}`}>
+        {dataNav.category.map((e) => (
+          <div
+            className="nav-card"
+            key={e.id}
+            onClick={() => handleDetail(e.id)}
+          >
+            <Link to={``}>
               <img src={e.cover} alt="..." />
               <p className="text-center">{e.jenis} </p>
-            </HashLink>
+            </Link>
           </div>
         ))}
       </div>
+
+      <div
+        className="row container-fluid mt-5"
+        style={{ height: "400px", overflow: "hidden" }}
+      >
+        {dataProduct[category].map((e) => (
+          <Card
+            category={category}
+            key={e.id}
+            cardkey={e.id}
+            src={e.gambar}
+            title={e.namaBarang}
+            price={
+              "Rp." +
+              e.harga.toLocaleString("id-ID", {
+                style: "currency",
+                currency: "IDR",
+              })
+            }
+          />
+        ))}
+      </div>
+      <Link
+        to={"/product"}
+        style={{ border: "none" }}
+        className="button-spek"
+        onClick={() => {
+          window.scroll(0, 0);
+        }}
+      >
+        <h4>Jelajahi Lebih Banyak Produk Honda ➝ </h4>
+      </Link>
     </div>
   );
-}
+};
 
 export default NavSection;

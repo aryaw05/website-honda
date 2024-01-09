@@ -56,7 +56,7 @@ function CardHeader(props) {
 
 function Another() {
   return (
-    <div className="row overflow-hidden container-fluid mx-auto my-5">
+    <div className="row overflow-hidden container-fluid mx-auto my-5 container" >
       <CardHeader
         img="https://www.hondacengkareng.com/wp-content/uploads/2011/02/Honda-CBR-250RR.jpg"
         title="Tentang Produk honda"

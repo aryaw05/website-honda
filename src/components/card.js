@@ -10,8 +10,9 @@ function Card(props) {
   };
   const { src, title, price, cardkey, category } = props;
   return (
+
     <Link
-      className="col-md-3 mb-5 card-container text-decoration-none  "
+      className="col-md-3 mb-5 card-container text-decoration-none"
       to={"/detail"}
       onClick={cardDetail}
     >
@@ -21,9 +22,9 @@ function Card(props) {
           <h5 className="card-title">{title}</h5>
           <h2 className="card-text">{price}</h2>
         </div>
-        <Link to={"/detail"} className="button-spek" onClick={cardDetail}>
+        <div className="button-spek" onClick={cardDetail}>
           Selengkapnya ➝
-        </Link>
+        </div>
       </div>
     </Link>
   );

@@ -37,19 +37,19 @@ function Footer() {
               <ul>
                 <li>
                   <i className="bx bx-chevron-right"></i>{" "}
-                  <Link to={"/dealer"}>Dealer</Link>
+                  {/* <Link to={"/dealer"}>Dealer</Link> */}
+                  <h4>Product</h4>
                 </li>
                 <li>
                   <i className="bx bx-chevron-right"></i>
-                  <Link to={"/afterSales"}>After Salse</Link>
+                  {/* <Link to={"/afterSales"}>After Salse</Link> */}
+                  <h4>Services</h4>
                 </li>
                 <li>
                   <i className="bx bx-chevron-right"></i>
-                  <Link to={"/corporate"}>Corporate</Link>
-                </li>
-                <li>
-                  <i className="bx bx-chevron-right"></i>{" "}
-                  <Link to={"/product"}>Product</Link>
+                  {/* <Link to={"/corporate"}>Corporate</Link>
+                   */}
+                  <h4>Parts</h4>
                 </li>
               </ul>
             </div>
@@ -69,7 +69,11 @@ function Footer() {
         </div>
       </div>
 
-      <div style={{ textAlign: "center", background: "#727272", padding: "10px" }}>© Copyright 2020, PT. Astra Honda Motor. All Rights Reserved.</div>
+      <div
+        style={{ textAlign: "center", background: "#727272", padding: "10px" }}
+      >
+        © Copyright 2020, PT. Astra Honda Motor. All Rights Reserved.
+      </div>
     </footer>
   );
 }

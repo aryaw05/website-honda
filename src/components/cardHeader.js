@@ -69,12 +69,12 @@ function Another() {
         img="https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,pr-true/uploads/article/thumbnail/servis-sepeda-motor-honda-tanpa-ketar-ketir-ke-ahass-saja-10122021-041537.jpg"
         desc=" Keunggulan dari service pada Ahass yaitu mendapat penanganan yang sesuai dengan standart pabrik, sparepart yang terjamin original, montir yang profesional  dan terlatih di bidangnya"
       />
-
+{/* 
       <CardHeader
         img="https://www.hondacengkareng.com/wp-content/uploads/2021/12/sparepart-1-1024x625.jpg"
         title=" Parts Original Honda"
         desc="Dengan menggunakan spare part asli, keamanan berkendara akan lebih terjamin karena kualitas spare part yang terpercaya. Tahan Lama. Spare part asli / genuine juga mampu bertahan lebih lama daripada yang bukan asli / genuine. Karena mampu bertahan lebih lama, dengan menggunakan spare part asli maka akan lebih irit dalam hal perawatan motor kawan-kawan. Spare part asli sudah disesuaikan dengan spesifikasi motor Honda sehingga lebih presisi dan sesuai dengan motor kawan-kawan."
-      />
+      /> */}
     </div>
   );
 }

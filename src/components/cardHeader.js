@@ -1,5 +1,6 @@
 import "./components.css";
 import { useState } from "react";
+import { motion, useScroll } from "framer-motion";
 function CardHeader(props) {
   const [height, setHeight] = useState("400px");
   const [open, setOpen] = useState("expand_more");
@@ -18,7 +19,7 @@ function CardHeader(props) {
     }
   };
   return (
-    <div className="col-md-4 mt-5 " id="cardHeader">
+    <motion.div className="col-md-4 mt-5 " id="cardHeader">
       <div className="cardHeader card  mx-auto " style={{ height: height }}>
         <div>
           <h1 className="text-center">{title}</h1>
@@ -50,13 +51,13 @@ function CardHeader(props) {
           </span>
         </div>
       </div>
-    </div>
+    </motion.div>
   );
 }
 
 function Another() {
   return (
-    <div className="row overflow-hidden container-fluid mx-auto my-5 container" >
+    <div className="row overflow-hidden container-fluid mx-auto my-5 container">
       <CardHeader
         img="https://www.hondacengkareng.com/wp-content/uploads/2011/02/Honda-CBR-250RR.jpg"
         title="Tentang Produk honda"
@@ -68,6 +69,7 @@ function Another() {
         img="https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,pr-true/uploads/article/thumbnail/servis-sepeda-motor-honda-tanpa-ketar-ketir-ke-ahass-saja-10122021-041537.jpg"
         desc=" Keunggulan dari service pada Ahass yaitu mendapat penanganan yang sesuai dengan standart pabrik, sparepart yang terjamin original, montir yang profesional  dan terlatih di bidangnya"
       />
+
       <CardHeader
         img="https://www.hondacengkareng.com/wp-content/uploads/2021/12/sparepart-1-1024x625.jpg"
         title=" Parts Original Honda"

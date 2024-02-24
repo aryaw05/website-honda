@@ -8,9 +8,11 @@ import Footer from "./components/footer";
 import Sparepart from "./pages/spareparts";
 import Corporate from "./pages/corporate";
 import Navigasi from "./pages/navigasi";
+import Apparel from "./components/apparel";
 function App() {
   return (
     <div>
+      motion
       <Navbar />
       {/* {Data.Sport.map((e) => (
         <Card  src={e.gambar} title={e.namaBarang} />
@@ -23,8 +25,8 @@ function App() {
         <Route path="/sparepart" element={<Sparepart />} />
         <Route path="/corporate" element={<Corporate />} />
         <Route path="/navigasi" element={<Navigasi />} />
+        <Route path="/apparel" element={<Apparel />} />
       </Routes>
-
       <Footer />
     </div>
   );
